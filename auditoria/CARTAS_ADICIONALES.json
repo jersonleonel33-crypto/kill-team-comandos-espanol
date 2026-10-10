@@ -1,0 +1,149 @@
+[
+  {
+    "slug": "angels_of_death",
+    "guid": "54b753",
+    "deckid": 1291,
+    "image": "angels_of_death/carta_extra_p5_s1_es.png",
+    "name": "Continuación — TÁCTICAS DE CAPÍTULO"
+  },
+  {
+    "slug": "battleclade",
+    "guid": "7a0443",
+    "deckid": 1292,
+    "image": "battleclade/carta_extra_p5_s0_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "blades_of_khaine",
+    "guid": "8e86b2",
+    "deckid": 1293,
+    "image": "blades_of_khaine/carta_extra_p7_s2_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "blooded",
+    "guid": "a630c7",
+    "deckid": 1294,
+    "image": "blooded/carta_extra_p6_s0_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "brood_brothers",
+    "guid": "3f514e",
+    "deckid": 1295,
+    "image": "brood_brothers/carta_extra_p6_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "death_korps",
+    "guid": "c904ca",
+    "deckid": 1296,
+    "image": "death_korps/carta_extra_p6_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "exaction_squad",
+    "guid": "8a295a",
+    "deckid": 1297,
+    "image": "exaction_squad/carta_extra_p6_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "farstalker_kinband",
+    "guid": "c7abf6",
+    "deckid": 1298,
+    "image": "farstalker_kinband/carta_extra_p5_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "fellgor_ravagers",
+    "guid": "b1f9f4",
+    "deckid": 1299,
+    "image": "fellgor_ravagers/carta_extra_p4_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "goremongers",
+    "guid": "8d0de0",
+    "deckid": 1300,
+    "image": "goremongers/carta_extra_p5_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "inquisitorial_agents",
+    "guid": "5f26db",
+    "deckid": 1301,
+    "image": "inquisitorial_agents/carta_extra_p10_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "kasrkin",
+    "guid": "19c651",
+    "deckid": 1302,
+    "image": "kasrkin/carta_extra_p5_s3_es.png",
+    "name": "FUEGO RÁPIDO"
+  },
+  {
+    "slug": "kasrkin",
+    "guid": "14081d",
+    "deckid": 1303,
+    "image": "kasrkin/carta_extra_p6_s0_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "kommandos",
+    "guid": "d8b1ba",
+    "deckid": 1304,
+    "image": "kommandos/carta_extra_p4_s2_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "mandrakes",
+    "guid": "a13e77",
+    "deckid": 1305,
+    "image": "mandrakes/carta_extra_p5_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "nemesis_claw",
+    "guid": "91531a",
+    "deckid": 1306,
+    "image": "nemesis_claw/carta_extra_p5_s0_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "novitiates",
+    "guid": "4d5c8f",
+    "deckid": 1307,
+    "image": "novitiates/carta_extra_p5_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "ratlings",
+    "guid": "7b8091",
+    "deckid": 1308,
+    "image": "ratlings/carta_extra_p5_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "scout_squad",
+    "guid": "f85b95",
+    "deckid": 1309,
+    "image": "scout_squad/carta_extra_p4_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "vespid_stingwings",
+    "guid": "db32f5",
+    "deckid": 1310,
+    "image": "vespid_stingwings/carta_extra_p5_s1_es.png",
+    "name": "Guía de fichas y marcadores"
+  },
+  {
+    "slug": "wrecka_krew",
+    "guid": "0af755",
+    "deckid": 1311,
+    "image": "wrecka_krew/carta_extra_p3_s3_es.png",
+    "name": "Guía de fichas y marcadores"
+  }
+]

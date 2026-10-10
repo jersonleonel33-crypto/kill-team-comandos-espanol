@@ -1,0 +1,167 @@
+[
+  {
+    "review_index": 1,
+    "field": "FaceURL",
+    "slug": "scout_squad",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/2495648357399615398/2495B0CD592089D9E725ED559B6624D68FC3C118/",
+    "official_en_title": "ADAPTABLE TRAINING",
+    "page": 5,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Blade Ambush eliminado y fusionado en Ambush; su posición se usa para el nuevo Adaptable Training, según registro oficial"
+  },
+  {
+    "review_index": 2,
+    "field": "FaceURL",
+    "slug": "hierotek_circle",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/12191947173338582669/7F918B73422D3CD833D1EFB08C24ADD6F1591A30/",
+    "official_en_title": "PSYCHOMANCER ACTIONS",
+    "page": 2,
+    "slot": 1,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 4,
+    "field": "FaceURL",
+    "slug": "hierotek_circle",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/10167442645055298009/C87F18F6F9FB680F4A171FDB5C27CB480861B5BC/",
+    "official_en_title": "TECHNOMANCER ACTIONS",
+    "page": 3,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 6,
+    "field": "FaceURL",
+    "slug": "hierotek_circle",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/14082935231624742736/9960C6C4D0846B87A51711A409A56237EBE9AC39/",
+    "official_en_title": "CHRONOMANCER ACTIONS",
+    "page": 1,
+    "slot": 2,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 8,
+    "field": "FaceURL",
+    "slug": "exaction_squad",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/27685911997489067/0AC06E6B5402E92577DA7CC5C8283427F1BDE791/",
+    "official_en_title": "REPRESS",
+    "page": 6,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 10,
+    "field": "FaceURL",
+    "slug": "gellerpox_infected",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/27685911997519109/8D320CF4E6DDF3C206C1442FDEEE59E7E390F4B9/",
+    "official_en_title": "",
+    "page": 4,
+    "slot": 2,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 10,
+    "field": "BackURL",
+    "slug": "gellerpox_infected",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/27685911997520439/0402C6B2575E646B0CA755A2695A487093B683F0/",
+    "official_en_title": "",
+    "page": 4,
+    "slot": 3,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 13,
+    "field": "FaceURL",
+    "slug": "hunter_clade",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/13607184484486449890/C8621FB524154884720F4FFE194BDBC4504729CE/",
+    "official_en_title": "",
+    "page": 6,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 13,
+    "field": "BackURL",
+    "slug": "hunter_clade",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/14353129255672531503/10635D287B9C4BCEE2782CD215AF640D582513DB/",
+    "official_en_title": "",
+    "page": 6,
+    "slot": 1,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 14,
+    "field": "FaceURL",
+    "slug": "pathfinders",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/12298785646385438800/637B0DAA0B83BDC1E0A5BA432BD238424139B39F/",
+    "official_en_title": "",
+    "page": 7,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 17,
+    "field": "FaceURL",
+    "slug": "elucidian_starstriders",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/2443857049611340609/D413C07683F1DA7A7F2A85E20185DC56416FA9D3/",
+    "official_en_title": "",
+    "page": 4,
+    "slot": 3,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 19,
+    "field": "FaceURL",
+    "slug": "warpcoven",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/13711542195624385761/E79E79EAD5FBC5597E1D835E04382A3E8EF4B537/",
+    "official_en_title": "",
+    "page": 6,
+    "slot": 0,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 19,
+    "field": "BackURL",
+    "slug": "warpcoven",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/14601833108721923250/8477E697116722D6C9A33E9166E3E41D377911FB/",
+    "official_en_title": "",
+    "page": 6,
+    "slot": 1,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 21,
+    "field": "FaceURL",
+    "slug": "canoptek_circle",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/15201153735898399241/BEABDA556526AFEA052E080476E2E228CD91CD5A/",
+    "official_en_title": "",
+    "page": 1,
+    "slot": 1,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  },
+  {
+    "review_index": 21,
+    "field": "BackURL",
+    "slug": "canoptek_circle",
+    "original_url": "https://steamusercontent-a.akamaihd.net/ugc/13064535902690223634/CD439D594955A835980FD0CD4E3E1D5C7058F5E6/",
+    "official_en_title": "",
+    "page": 1,
+    "slot": 2,
+    "evidence": "Imagen original completa confirmada visualmente; páginas de acciones/continuaciones identificadas por su texto impreso",
+    "replacement_reason": "Conserva la página correcta de reglas o acciones, en lugar de duplicar la cabecera genérica"
+  }
+]

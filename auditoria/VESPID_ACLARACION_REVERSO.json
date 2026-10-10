@@ -1,0 +1,24 @@
+{
+  "source": "work\\COMANDOS_TODOS_FUENTES\\vespid_stingwings\\ES_REVISADA.pdf",
+  "output": "work\\COMANDOS_TODOS_FUENTES\\vespid_stingwings\\ES_REVISADA_COMPLETA.pdf",
+  "page": 2,
+  "slot": 3,
+  "paragraph_added": "Aclaración de Antorcha celeste: La zona de achicharramiento es el área horizontal entre la posición actual y la anterior del agente. Ráfaga 0\" impide elegir blancos secundarios fuera de esa zona, pero el arma conserva la regla Ráfaga a efectos de otras reglas, como Fortaleza Condensada (zona de aniquilación: Volkus, Libro Básico de Kill Team).",
+  "position": [
+    303.5,
+    664
+  ],
+  "font": "TradeGothicNextLTPro-Cn",
+  "font_size": 7,
+  "lines": [
+    "Aclaración de Antorcha celeste: La zona de achicharramiento",
+    "es el área horizontal entre la posición actual y la anterior del",
+    "agente. Ráfaga 0\" impide elegir blancos secundarios fuera de",
+    "esa zona, pero el arma conserva la regla Ráfaga a efectos de",
+    "otras reglas, como Fortaleza Condensada (zona de",
+    "aniquilación: Volkus, Libro Básico de Kill Team)."
+  ],
+  "rule_source": "English official current Vespid Swarmguard front; placement on paired back in unused right column",
+  "status": "TEXT_VERIFIED_PENDING_VISUAL",
+  "sha256": "89797789735d1a624dd8316a0aaea538fd20e1e8212559fe4784bc424d30564f"
+}

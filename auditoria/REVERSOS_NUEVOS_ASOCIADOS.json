@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "hand_of_the_archon",
+    "front": "hand_of_the_archon/carta_fe2937572c9eccfb_es.png",
+    "back": "hand_of_the_archon/carta_extra_p1_s1_es.png",
+    "paths": [
+      "/ObjectStates/20/ContainedObjects/5/CustomDeck/1235/BackURL",
+      "/ObjectStates/20/ContainedObjects/5/ContainedObjects/7/CustomDeck/1235/BackURL"
+    ]
+  },
+  {
+    "slug": "hand_of_the_archon",
+    "front": "hand_of_the_archon/carta_f032008750c2a65c_es.png",
+    "back": "hand_of_the_archon/carta_extra_p2_s1_es.png",
+    "paths": [
+      "/ObjectStates/20/ContainedObjects/5/CustomDeck/1241/BackURL",
+      "/ObjectStates/20/ContainedObjects/5/ContainedObjects/1/CustomDeck/1241/BackURL"
+    ]
+  },
+  {
+    "slug": "vespid_stingwings",
+    "front": "vespid_stingwings/carta_f50933d73f2d39ce_es.png",
+    "back": "vespid_stingwings/carta_extra_p2_s3_es.png",
+    "paths": [
+      "/ObjectStates/58/ContainedObjects/1/CustomDeck/1042/BackURL",
+      "/ObjectStates/58/ContainedObjects/1/ContainedObjects/2/CustomDeck/1042/BackURL"
+    ]
+  },
+  {
+    "slug": "raveners",
+    "front": "raveners/carta_b17872d2cdc2f544_es.png",
+    "back": "raveners/carta_extra_p1_s2_es.png",
+    "paths": [
+      "/ObjectStates/137/ContainedObjects/2/CustomDeck/91/BackURL",
+      "/ObjectStates/137/ContainedObjects/2/ContainedObjects/3/CustomDeck/91/BackURL"
+    ]
+  },
+  {
+    "slug": "canoptek_circle",
+    "front": "canoptek_circle/carta_3896128829e81ebd_es.png",
+    "back": "canoptek_circle/carta_extra_p3_s2_es.png",
+    "paths": [
+      "/ObjectStates/148/ContainedObjects/4/CustomDeck/1112/BackURL",
+      "/ObjectStates/148/ContainedObjects/4/ContainedObjects/0/CustomDeck/1112/BackURL"
+    ]
+  },
+  {
+    "slug": "battleclade",
+    "front": "battleclade/carta_081143d3683553a9_es.png",
+    "back": "battleclade/carta_extra_p2_s2_es.png",
+    "paths": [
+      "/ObjectStates/149/ContainedObjects/5/CustomDeck/41/BackURL",
+      "/ObjectStates/149/ContainedObjects/5/ContainedObjects/4/CustomDeck/41/BackURL"
+    ]
+  },
+  {
+    "slug": "battleclade",
+    "front": "battleclade/carta_2cb1f1e9893dc237_es.png",
+    "back": "battleclade/carta_extra_p3_s0_es.png",
+    "paths": [
+      "/ObjectStates/149/ContainedObjects/5/CustomDeck/40/BackURL",
+      "/ObjectStates/149/ContainedObjects/5/ContainedObjects/3/CustomDeck/40/BackURL"
+    ]
+  }
+]
